@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Chat — Minimal Web Chat Application
 
 A small single-page web chat that sends user messages to an LLM (Groq) and
@@ -76,3 +77,6 @@ The frontend shows these as red error messages in the chat.
 | `GROQ_API_KEY`  | —                             | **Required.** Your Groq key |
 | `GROQ_MODEL`    | `llama-3.3-70b-versatile`     | Groq model to use          |
 | `PORT`          | `3000`                        | Port the server listens on |
+=======
+# Private_AI_system
+>>>>>>> 76473df996959cc66fdd056a7719824f4c895607
